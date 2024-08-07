@@ -1,4 +1,3 @@
-Here’s a template for a README file detailing how to use the authentication routes in Postman:
 
 ---
 
